@@ -1,0 +1,22 @@
+display_name: FoxCloud
+
+packager: FoxCloud
+packagerEmail: support@foxcloud.app
+license: Other
+
+priority: optional
+section: x11
+installed_size: 6604
+essential: false
+icon: ./assets/images/icon.png
+
+keywords:
+  - FoxCloud
+  - VPN
+    - Proxy
+
+generic_name: FoxCloud
+
+group: Applications/Internet
+
+startup_notify: true

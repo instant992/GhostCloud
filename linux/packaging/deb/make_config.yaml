@@ -1,0 +1,27 @@
+display_name: FoxCloud
+package_name: FoxCloud
+maintainer:
+  name: FoxCloud
+  email: support@foxcloud.app
+
+priority: optional
+section: x11
+installed_size: 6604
+essential: false
+icon: ./assets/images/icon.png
+
+dependencies:
+  - libayatana-appindicator3-dev
+  - libkeybinder-3.0-dev
+
+keywords:
+  - FoxCloud
+  - VPN
+  - Proxy
+
+generic_name: FoxCloud
+
+categories:
+  - Network
+
+startup_notify: true

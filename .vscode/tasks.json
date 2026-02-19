@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "flutter-build-apk",
+			"type": "shell",
+			"command": "powershell",
+			"args": ["-ExecutionPolicy", "Bypass", "-File", "C:\\vscode\\FoxClash\\build_apk.ps1"],
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
